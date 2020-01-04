@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\Obrazec\Obrazec\bin\Debug\Obrazec.exe.config
+C:\Users\Simon\source\repos\Obrazec\Obrazec\bin\Debug\Obrazec.exe
+C:\Users\Simon\source\repos\Obrazec\Obrazec\bin\Debug\Obrazec.pdb
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\App.g.cs
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec_MarkupCompile.cache
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec_MarkupCompile.lref
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\MainWindow.baml
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec.g.resources
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec.Properties.Resources.resources
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec.exe
+C:\Users\Simon\source\repos\Obrazec\Obrazec\obj\Debug\Obrazec.pdb
